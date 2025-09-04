@@ -5,7 +5,7 @@
 pacman -Syyu && pacman -Syu clang
 ```
 
-## Add to Path:
+## Add to Path (Environment Variables):
 ```
 C:\msys64\usr\bin
 C:\msys64\usr\include
